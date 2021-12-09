@@ -1,4 +1,4 @@
-//cuda3 code
+//cuda worm 2 code
 #include <iostream>
 #include <math.h>
 #include <random>
